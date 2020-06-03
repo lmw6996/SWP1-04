@@ -1,2 +1,2 @@
-20203114 Minwoo Lee
-Kookmin Univ. SW
+# 20203114 Minwoo Lee
+# Kookmin Univ. SW
