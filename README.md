@@ -1,2 +1,2 @@
 # 2020XXXX	Minwoo Lee
-# Kookmin Univ. SW
+# Kookmin Univ. computer science
